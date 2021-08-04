@@ -1,4 +1,4 @@
-![RUSL FOSS Logo](https://github.com/FOSSRusl/fosslogo/blob/main/117342246_154540922943530_7850793474753972793_o.png)
+![RUSL FOSS Logo](https://github.com/FOSSRusl/fosslogo/blob/main/FOSS%20LOGO.png)
 # RUSL - Rajarata University Of Sri Lanka 
 
 
@@ -16,7 +16,7 @@
 
 ## How to join?
 
-- Go to [Foss Community - RUSL](https://fossrusl.wordpress.com/) official website
+- Go to [Foss Community - RUSL](https://fossrusl.github.io) official website
 - Click on the [Register](https://fossrajarata.typeform.com/to/LGFIUjpk) button 
 - Now fill the form and submit.
 
